@@ -10,7 +10,7 @@ Promotional video and assets for ise.kai.now.
 - `README.md` — This file
 
 ## Repository
-Corrected target repository: https://github.com/isekai-friends/ise-kai-now-promo (avoided prior mistake of promo-repo under same org).
+Corrected target repository: https://github.com/XnoBui/ise-kai-now-promo (personal account; prior attempt used wrong org isekai-friends/promo-repo).
 
 ## Commit
-This repo was initialized and pushed as part of the ise.kai.now promo production workflow following frontdesk-journal conventions.
+This repo was initialized and pushed as part of the ise.kai.now promo production workflow following frontdesk-journal conventions. Overlay of assets from commit 306f3c7 into the corrected remote.
